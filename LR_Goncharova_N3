@@ -1,0 +1,11 @@
+
+total 24
+-rw-r--r-- 1 admin1 admin1  442 Nov  9 00:53 LR_Goncharova_N1
+drwxr-xr-x 3 admin1 admin1 4096 Nov  6 21:19 directory
+-rw-r--r-- 1 admin1 admin1  723 Nov  6 21:16 LR_Goncharova_N2
+-rw-r--r-- 1 admin1 admin1    0 Nov  6 21:13 current_date
+drwxr-xr-x 2 admin1 admin1 4096 Nov  6 21:08 dir
+lrwxrwxrwx 1 admin1 admin1    8 Nov  6 21:05 link1 -> dir/date
+drwxr-xr-x 4 admin1 admin1 4096 Nov  6 21:02 cat1
+-rw-r--r-- 1 admin1 admin1    1 Nov  6 19:12 LR_Goncharova_N3
+
