@@ -1,4 +1,4 @@
-
+punkt 3
 total 24
 -rw-r--r-- 1 admin1 admin1  442 Nov  9 00:53 LR_Goncharova_N1
 drwxr-xr-x 3 admin1 admin1 4096 Nov  6 21:19 directory
@@ -9,3 +9,5 @@ lrwxrwxrwx 1 admin1 admin1    8 Nov  6 21:05 link1 -> dir/date
 drwxr-xr-x 4 admin1 admin1 4096 Nov  6 21:02 cat1
 -rw-r--r-- 1 admin1 admin1    1 Nov  6 19:12 LR_Goncharova_N3
 
+pynktu ot 4 po 8 you can find in file cut_result and cut_result2
+i ispolsovala commands like "cut", "nl" dlya numeracii, sort and other and i am very tired.
